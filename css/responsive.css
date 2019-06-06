@@ -1,0 +1,44 @@
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .form-img h3 {
+    padding-top: 1rem;
+    font-size: 1.2rem;
+  }
+
+  .form-img {
+    padding: unset;
+  }
+
+  .main-form {
+    padding: 1rem 0.5rem;
+  }
+
+  .form-body {
+    flex-direction: column-reverse;
+  }
+
+  .container {
+    height: unset;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .form-body {
+    flex-direction: column-reverse;
+  }
+
+  .container {
+    height: unset;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .container {
+    max-width: unset;
+    margin: unset;
+    display: unset;
+  }
+
+  .form-body {
+    height: 100vh;
+  }
+}
