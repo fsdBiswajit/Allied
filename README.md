@@ -1,10 +1,10 @@
-# Allied
+# Allied (Login form)
 
 provision is a static responsive website.
 
 ## Project idea
 
-Basically, Allied is a w3layout theme. I made a clone. Write code from scratch.
+Basically, Allied is a w3layout login form. I made a clone. Write code from scratch.
 
 
 ## Feature
